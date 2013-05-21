@@ -30,7 +30,17 @@
     },
     {
         "project": "ChameleonOS",
+        "repository": "android_vendor_samsung_t0lte",
+        "target_path": "vendor/samsung/t0lte"
+    },
+    {
+        "project": "ChameleonOS",
         "repository": "android_vendor_samsung_t0ltetmo",
         "target_path": "vendor/samsung/t0ltetmo"
+    },
+    {
+        "project": "ChameleonOS",
+        "repository": "android_vendor_samsung_smdk4412-common",
+        "target_path": "vendor/samsung/smdk4412-common"
     }
 ]
