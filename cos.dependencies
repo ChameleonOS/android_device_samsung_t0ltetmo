@@ -30,13 +30,13 @@
         "branch": "jellybean-mr1"
     },
     {
-        "project": "ChameleonOS",
+        "project": "wizard0f0s",
         "repository": "android_vendor_samsung_t0lte",
         "target_path": "vendor/samsung/t0lte",
         "branch": "jellybean-mr1"
     }
     {
-        "project": "ChameleonOS",
+        "project": "wizard0f0s",
         "repository": "android_vendor_samsung_t0ltetmo",
         "target_path": "vendor/samsung/t0ltetmo",
         "branch": "jellybean-mr1"
