@@ -30,7 +30,7 @@
         "branch": "jellybean-mr2.1"
     },
     {
-        "project": "TheMuppets,
+        "project": "TheMuppets",
         "repository": "proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
         "branch": "cm-10.2"
