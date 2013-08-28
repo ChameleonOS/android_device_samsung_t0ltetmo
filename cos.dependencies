@@ -24,7 +24,7 @@
         "branch": "cm-10.2"
     },
     {
-        "project": "ChameleonOS,
+        "project": "ChameleonOS",
         "repository": "android_device_samsung_t0lte",
         "target_path": "device/samsung/t0lte",
         "branch": "jellybean-mr2.1"
